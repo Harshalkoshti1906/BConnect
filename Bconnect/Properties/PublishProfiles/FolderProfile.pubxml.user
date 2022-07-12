@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <History>True|2022-06-22T09:01:28.4401488Z;False|2022-06-22T14:31:20.0918006+05:30;True|2022-06-22T14:17:06.6141884+05:30;True|2022-06-16T15:01:02.0414150+05:30;False|2022-06-16T14:58:09.6597654+05:30;False|2022-06-16T14:57:34.5322831+05:30;</History>
+    <_PublishTargetUrl>D:\Harshal\Project\BConnectNew\Bconnect\Bconnect\bin\Release\net5.0\publish\</_PublishTargetUrl>
+  </PropertyGroup>
+</Project>
